@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+img {
+margin-left: 3%;
+margin-right: 50%;
+}
+ body 
+ { font-family: "Comic Sans MS", cursive, sans-serif; background-color: #f4f4f9; color: #333; text-align: center; } 
+ h1 
+ { color: palevioletred;
+ font-size: 3em; 
+ margin: 25px 0; } 
+ h2{
+ color: mediumvioletred;
+  font-size: 3em; 
+  margin: 11px 0;
+ }
+ p 
+ { color:deeppink; 
+ font-size: 1.5em;
+ margin: 20px auto; 
+ max-width: 600px; }
